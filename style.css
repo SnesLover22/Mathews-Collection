@@ -19,6 +19,9 @@
     color: white;
     font-family: Arial;
 }
+#black-font {
+    color: black;
+}
 #multi-bg-example {
   width: 100%;
   height: 400px;
