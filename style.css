@@ -62,3 +62,9 @@
 #orange {
     color: darkorange;
 }
+.test {
+  background:gray;
+  width:200px;
+  height:200px;
+  cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
+}
