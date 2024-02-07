@@ -1,1 +1,1 @@
-alert("Hey, You! Thanks for visiting the site, tell others about it!");
+alert("Hey, you! Thanks for visiting the site, tell others about it!");
